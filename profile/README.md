@@ -1,4 +1,6 @@
-Lonestar Softworx is a software development company that specializes in the development of extensions for Microsoft Visual Studio. We currently three extensions: VSBackup for VS 2022, VSBackup for VS 2019 & 2017, and VSRegex.
+Lonestar Softworx is a software development company that specializes in the development of extensions for Microsoft Visual Studio. We currently four extensions: VSCodeSnap, VSBackup for VS 2022, VSBackup for VS 2019 & 2017, and VSRegex.
+
+VSCodeSnap: https://marketplace.visualstudio.com/items?itemName=LonestarSoftworx.VSCodeSnap2023
 
 VSBackup for VS 2022 : https://marketplace.visualstudio.com/items?itemName=LonestarSoftworx.VSBackup2022
 
